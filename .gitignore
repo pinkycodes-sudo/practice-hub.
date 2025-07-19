@@ -1,0 +1,85 @@
+
+
+# === C++ ===
+*.o
+*.out
+*.exe
+*.obj
+*.gch
+*.pch
+*.class
+*.log
+*.suo
+*.idb
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.ilk
+*.exp
+*.dSYM/
+*.vscode/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.env
+*.venv
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+*.log
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.iml
+*.log
+
+# === JavaScript/Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# === Web Dev (HTML/CSS/etc.) ===
+.cache/
+temp/
+.sass-cache/
+.jekyll-cache/
+_site/
+*.html~
+*.css~
+
+# === IDEs & Editors ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+desktop.ini
